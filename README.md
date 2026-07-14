@@ -2,6 +2,8 @@
 
 A responsive e-commerce web application built using React.js. The project demonstrates component-based architecture, state management, routing, and a functional shopping cart system.
 
+Live Website Link: https://e-commerce-website26.netlify.app/
+
 ## 🚀 Features
 
 - Responsive design for desktop and mobile
@@ -36,4 +38,4 @@ AI tools were used during the development process for:
 All core functionality, logic, and project implementation were developed and customized as part of the project work.
 
 ## 📸 Screenshots
-(./screenshots/home.png)
+(./HomePage.png)
