@@ -38,4 +38,5 @@ AI tools were used during the development process for:
 All core functionality, logic, and project implementation were developed and customized as part of the project work.
 
 ## 📸 Screenshots
-(./screenshots/HomePage.png)
+![Screenshot](HomePage.png)
+
